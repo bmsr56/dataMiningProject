@@ -16,7 +16,7 @@ data = [
         y=df['y']
     )
 ]
-# IPython notebook
+# IPython noteboddddok
 # py.iplot(data, filename='pandas/basic-line-plot')
 
 plotly.offline.plot(data)
