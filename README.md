@@ -1,2 +1,0 @@
-# dataMiningProject
-2018

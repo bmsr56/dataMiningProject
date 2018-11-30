@@ -1,4 +1,4 @@
-import plotly.plotly as py
+import plotly
 import plotly.graph_objs as go
 
 import pandas as pd
@@ -19,4 +19,4 @@ data = [
 # IPython notebook
 # py.iplot(data, filename='pandas/basic-line-plot')
 
-url = py.plot(data, filename='pandas/basic-line-plot')
+plotly.offline.plot(data)
