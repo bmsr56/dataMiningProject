@@ -1,3 +1,4 @@
 lyrics.csv
 .vscode
+*.code-workspace
 __pycache__/
