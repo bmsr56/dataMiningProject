@@ -3,3 +3,4 @@ lyrics.csv
 *.code-workspace
 __pycache__/
 380000-lyrics-from-metrolyrics
+/pictures*
